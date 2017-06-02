@@ -5,83 +5,10 @@ categories: post
 author: "Karen Xie"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+##### Who am I?
+I am Karen Xie, a graduate developer fresh out of university. I love coding because I love to create. I love that these creations can make our lives more easy and convenient. I love that coding is a never-ending journey of learning.
 
-## Some great heading (h2)
+I actually did a year of Biomedical Science before I decided to switch to Engineering. The plan was to become an optometrist, but because my physics and chemistry were not as great as my biology, I failed. This is one of many failures in my life which I can wholeheartedly say I am glad about! Failing to get into Optometry allowed me to find my passion for coding.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-## Another great heading (h2)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-### Some great subheading (h3)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+##### Why am I writing this blog?
+A certain team lead of mine gave me the idea of starting a blog post to share my experiences as a developer. To be honest, I'm not much of a writer but I like to give things a go before shooting them down. Plus, it might be a good way to get my thoughts together for this crazy journey I've been having. I want to structure the jumble of notes I've taken at work and document what it's like to start as a newbie developer in this big industry. I want this blog to be very personal, showing both my failures and successes so far. Hopefully this will be helpful to those who are also just starting out. :)
